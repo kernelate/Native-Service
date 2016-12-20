@@ -1,0 +1,1 @@
+int asterisk_reload_config_files();
